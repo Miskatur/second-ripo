@@ -1,0 +1,12 @@
+p{
+    background-color: grey;
+}
+ul{
+    background-color: violet;
+}
+div{
+    display: inline;
+}
+label{
+    margin: 0 auto;
+}
